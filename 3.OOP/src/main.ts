@@ -67,7 +67,7 @@
 // console.log(ivanPerson.getFullNameInUpperCase());
 
 // const martinPerson = new Person("Martin", "Ivanov");
-// console.log(martinPerson.getFullNameInUpperCase());
+// console.log(martinPerson.getFullNameInUpperCase()); 
 
 // Abstraction
 
