@@ -1,6 +1,6 @@
 // ./node_modules/.bin/tsc demo.ts && node demo.js
 // 1. Intro to TypeScript
-// Arrays
+// Arrays 
 var arr = [1, 2, 3, 4];
 var arr2 = [1, 2, 3, 4];
 var arr3 = ["a", "b", "c"];
